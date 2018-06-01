@@ -1,8 +1,10 @@
 body {
-	background: #eee;
+    background: #eee;
+    opacity: 0.8;
 	margin:0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 10pt;
+    background:url("http://data.1freewallpapers.com/detail/lines-abstract-background-point-scheme-background-free.jpg");
 }
 
 hr {
@@ -14,6 +16,17 @@ hr {
 header{
 	text-align: center;
 	color: #232323;
+}
+#header {
+    background-image: url("https://www.sololearn.com/Uploads/header.jpg");
+    background-size: cover;
+}
+.section {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    
 }
 
 .tanggal {
