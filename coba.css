@@ -10,3 +10,8 @@ body {
     margin: 0;
     text-align:justify;
 }
+img {
+    float: left;
+    width: 120px;
+    margin-right: 10px;
+}
