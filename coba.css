@@ -5,13 +5,19 @@ html {
 body {
     font-family: 'Florence', cursive;
     font-size: 13pt;
-    background-color: #efefef;
+    background-color:white;
     padding: 0px;
     margin: 0;
     text-align:justify;
 }
-img {
+.left {
     float: left;
-    width: 120px;
-    margin-right: 10px;
+    width: 350px;
+    margin-right: 20px;
+}
+
+.right {
+    float: right;
+    width: 350px;
+    margin-left: 20px;
 }
