@@ -1,0 +1,12 @@
+html {
+    margin: 10;
+    padding: 100;
+}
+body {
+    font-family: 'Florence', cursive;
+    font-size: 13pt;
+    background-color: #efefef;
+    padding: 0px;
+    margin: 0;
+    text-align:justify;
+}
